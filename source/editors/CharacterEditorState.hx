@@ -333,6 +333,10 @@ class CharacterEditorState extends MusicBeatState
 			"animations": [
 				{
 					"loop": false,
+                                        "playeroffsets": [
+						0,
+						0
+					],
 					"offsets": [
 						0,
 						0
@@ -343,6 +347,10 @@ class CharacterEditorState extends MusicBeatState
 					"name": "Dad idle dance"
 				},
 				{
+                                        "playeroffsets": [
+						0,
+						0
+					],
 					"offsets": [
 						0,
 						0
@@ -354,6 +362,10 @@ class CharacterEditorState extends MusicBeatState
 					"name": "Dad Sing Note LEFT"
 				},
 				{
+                                        "playeroffsets": [
+						0,
+						0
+					],
 					"offsets": [
 						0,
 						0
@@ -365,6 +377,10 @@ class CharacterEditorState extends MusicBeatState
 					"name": "Dad Sing Note DOWN"
 				},
 				{
+                                        "playeroffsets": [
+						0,
+						0
+					],
 					"offsets": [
 						0,
 						0
@@ -389,6 +405,10 @@ class CharacterEditorState extends MusicBeatState
 			],
 			"no_antialiasing": false,
 			"image": "characters/DADDY_DEAREST",
+                         "playerpos": [
+				0,
+				0
+			],
 			"position": [
 				0,
 				0
@@ -399,6 +419,10 @@ class CharacterEditorState extends MusicBeatState
 				161,
 				161,
 				161
+			],
+			"playercam_pos": [
+				0,
+				0
 			],
 			"camera_position": [
 				0,
